@@ -16,7 +16,7 @@ Horváth Gergő
 
 Kalicz Hanga Mária
 
-Kancz Barnabás
+Kancz Barnabás absolute térinfo
 
 Kis Ádám
 
