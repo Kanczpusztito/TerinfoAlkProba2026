@@ -16,7 +16,7 @@ Horváth Gergő
 
 Kalicz Hanga Mária
 
-Kancz Barnabás absolute térinfo
+Kancz Barnabás absolute térinformatika
 
 Kis Ádám
 
