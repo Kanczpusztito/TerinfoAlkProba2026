@@ -1,4 +1,4 @@
-# Szerkesztendő névsor
+# Névsor
 
 Balogh Bence
 
@@ -6,7 +6,7 @@ Csobot Nimród
 
 Erdei Dávid
 
-Gál László
+Gál László alma
 
 Henye Zoltán commit próba
 
@@ -18,7 +18,7 @@ Kalicz Hanga Mária
 
 Kancz Barnabás absolute térinformatika
 
-Kis Ádám
+Kis Ádám 123
 
 Kocsis Máté
 
@@ -36,7 +36,7 @@ Patthy Domonkos
 
 Sallay Dávid 6767
 
-Simon Mátyás
+Simon Mátyás (Sopron, Szombathely, Pannonhalma)
 
 Sinka Ádám
 
@@ -52,6 +52,6 @@ Szentirmai Soma Pesti bevándorló
 
 Szépvölgyi Zétény
 
-Zimány Gábor
+Zimány Gábor a. Lajhár
 
 Kalicz Péter Kunhegyes
