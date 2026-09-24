@@ -30,7 +30,7 @@ Laczkovich Dániel
 
 Lőrincz Tamás
 
-Müller Dániel István
+Müller Dániel István Bicske   
 
 Patthy Domonkos
 
@@ -48,7 +48,7 @@ Szabó Máté
 
 Szegi Bertalan
 
-Szentirmai Soma
+Szentirmai Soma Pesti bevándorló
 
 Szépvölgyi Zétény
 
